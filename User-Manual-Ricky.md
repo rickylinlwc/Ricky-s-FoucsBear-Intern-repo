@@ -30,32 +30,39 @@ The days and times I work are:
 - Best channel for contact in general: Discord / Emergency: 0474212689
 
 ## How to give me tasks (so I can succeed)
-- Please include: (goal, priority, deadline, links, examples)  
-- Definition of done looks like: 
-- If the task is big, breakpoints/check-ins I like:
-
-## Feedback style I prefer
-- I prefer feedback that is: (direct / specific / examples / written)  
-- Good feedback example:  
-- What doesn't help:  
-
-## When I'm stuck (my escalation plan)
-If I'm stuck for **30 minutes**, I will:
-1. Write what I tried + exact error/message
-2. List 1-2 possible causes
-3. Ask a focused question with screenshots/logs (redacted)
-
-What helps me most when I'm stuck:
--  
--  
+- Please include if impossible: (goal, priority, deadline, links, examples)  
+- If the task is big, breakpoints/check-ins I like: I prefer splitting it into clear milestones, with a small deadline for each critical point (e.g., setup -> first draft -> testing -> final). At each milestone, I'll share what I've done so far in a standup or short async update, confirm I'm on the right track, and then continue to the next step.
 
 
-## Security & privacy habits (for work)
-- One security habit I follow:  
-- Tools/data I will be careful with:  
-- What I do if I suspect an incident:  
+## Communication Style
+### I prefer messages to be...
+- **Direct:** straight to the point is best for me.
+- **Clear:** include what you need from me (a decision, an update, or an action).
 
-## Personal motivators (what keeps me going)
-- I’m motivated by:  
-- I lose motivation when:  
-- Small wins that help me:  
+- **Batched (when possible):** if you have multiple questions, putting them in one message helps me respond efficiently.
+
+- **Context-first:** a short background + links/screenshots (redacted if sensitive) helps me understand faster.
+
+
+## Collaboration & Teamwork
+### I work best in a team when...
+- The goal is clear: **what are we trying to achieve and why?**
+- Expectations are clear: **priority + deadline + definition of done**
+- People communicate respectfully and keep momentum (light humour is fine).
+
+### My pet peeves
+- Vague tasks with no success criteria.
+- Too many meetings without decisions or next steps.
+- Busywork updates instead of real progress.
+
+### If I seem quiet in a meeting, it usually means...
+- I'm processing/thinking through the problem, **or**
+- I'm unsure about the context and don't want to interrupt (I'll follow up after).
+
+
+## Feedback & Growth
+### I like feedback to be...
+- **Direct but kind**
+- **Specific:** "change X to Y because Z"
+- **Actionable:** what to do next is clear
+- Preferably in writing (so I can apply it correctly)
